@@ -9,7 +9,7 @@ Tot i que aquest joc té una gran quantitat de variacions, per aquest projecte e
 
 El projecte consistirà a preparar un codi per a l'ESP32 que ens generi una seqüència aleatòria de llums i que comprovi si la seqüència introduïda pel jugador és correcta.
 
-![Untitled](C:\Uni\Assignatures\Q4\Processadors Digitals\Projecte\Untitled.png)
+![Untitled]([Pinyazo/Processadors_Digitals_Projecte/Untitled.png](https://github.com/Pinyazo16/Processadors_Digitals_Projecte/blob/main/Pinyazo/Processadors_Digitals_Projecte/Untitled.png))
 
 Per al projecte també comptavem amb certs requeriments com poden ser l’utilització d’un *******display*******, o l’implementació i ús d’una pàgina web.
 
