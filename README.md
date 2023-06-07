@@ -9,7 +9,7 @@ Tot i que aquest joc té una gran quantitat de variacions, per aquest projecte e
 
 El projecte consistirà a preparar un codi per a l'ESP32 que ens generi una seqüència aleatòria de llums i que comprovi si la seqüència introduïda pel jugador és correcta.
 
-![Untitled](Processadors%20Digitals%20Projecte%208a7a2f58c7ab4830bf3f5eb059f80f9a/Untitled.png)
+![Untitled](C:\Uni\Assignatures\Q4\Processadors Digitals\Projecte\Untitled.png)
 
 Per al projecte també comptavem amb certs requeriments com poden ser l’utilització d’un *******display*******, o l’implementació i ús d’una pàgina web.
 
@@ -73,7 +73,7 @@ El codi també compta amb un sistema que augmenta lleugerament la velocitat del 
 
 El muntatge consisteix principalment de cinc botons (un per cada color i un altre per iniciar el joc), quatre LEDs, un display i un ******buzzer******.
 
-![Sin título-1.jpg](Processadors%20Digitals%20Projecte%208a7a2f58c7ab4830bf3f5eb059f80f9a/Sin_ttulo-1.jpg)
+![Sin título-1.jpg](C:\Uni\Assignatures\Q4\Processadors Digitals\ProjecteSin_título-1.jpg)
 
 Aquí podem veure un esquema del cablejat del joc. Com podem veure els LEDs estan connectats a pins amb nombres consecutius per assegurar el funcionament de la funció que genera la seqüència de cada partida.
 El display també està connectat a uns pins específics del microprocessador, ja que utilitza el bus **I2C** per la comunicació amb l’**********ESP32**********.
@@ -85,7 +85,7 @@ Per millorar la posició dels botons a l’hora de jugar, la caixa compta amb un
 Al disseny també hi consta una ranura per on poder accedir al port micro USB de l’**ESP32** que utilitzem per alimentar tot el joc.
 També, i tot i que no apareix al disseny, hi ha una altra perforació per al botó d’inici del joc i una petita perforació a un dels laterals per on pot sortir el so del ***************************buzzer*************************** mentre es reprodueixen els efectes. 
 
-![Untitled](Processadors%20Digitals%20Projecte%208a7a2f58c7ab4830bf3f5eb059f80f9a/Untitled%201.png)
+![Untitled](C:\Uni\Assignatures\Q4\Processadors Digitals\Projecte|Untitled_.png)
 
 A l’interior de la caixa hi ha una petita PCB que conté l’**********ESP32********** amb totes les connexions necessàries que apareixen a l’esquema de dalt, però sense utilitzar la protoboard.
 
